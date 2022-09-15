@@ -1,6 +1,6 @@
 body {
     background-color: bisque;
-    color:saddlebrown;
+    color:rgb(110, 60, 25);
     font-size: 25px;
 }
 h1{
@@ -8,4 +8,12 @@ h1{
 }
 .head{
     text-align: center;
+}
+.children{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.babyblurb{
+    margin-left: 30px;
+    width: 50vw
 }
