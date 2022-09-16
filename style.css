@@ -10,10 +10,11 @@ h1{
     text-align: center;
 }
 .children{
+    text-align: center;
     margin-top: 50px;
     margin-left: 30px;
+    background-color: beige;
 }
-.babyblurb{
-    margin-left: 30px;
-    width: 50vw
+span{
+    text-align: left;
 }
