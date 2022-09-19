@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: rgb(241, 179, 179);
     color:rgb(110, 60, 25);
     font-size: 25px;
 }
@@ -12,9 +12,30 @@ h1{
 .children{
     text-align: center;
     margin-top: 50px;
-    margin-left: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
     background-color: beige;
 }
-span{
-    text-align: left;
+.hobby{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: beige;
 }
+img {
+    max-width: 40%;
+    height: auto;
+}
+.music{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: beige;
+}
+img {
+    max-width: 50%;
+    height: auto;
+}   
+
