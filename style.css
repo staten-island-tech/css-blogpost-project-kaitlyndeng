@@ -9,33 +9,39 @@ h1{
 .head{
     text-align: center;
 }
+.kaitlyns-children-head{
+    font-size: 40px;
+}
 .children{
     text-align: center;
     margin-top: 50px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 70px;
+    margin-left: 70px;
     background-color: beige;
+}
+.kaitlyns-hobbies-head{
+    font-size: 40px;
 }
 .hobby{
     text-align: center;
-    margin-top: 50px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin: 5%;
     background-color: beige;
 }
 img {
     max-width: 40%;
     height: auto;
 }
+.kaitlyns-music-taste-head{
+    font-size: 40px;
+}
 .music{
     text-align: center;
-    margin-top: 50px;
-    margin-right: 50px;
-    margin-left: 50px;
     background-color: beige;
+    margin: 5%
 }
 img {
     max-width: 50%;
     height: auto;
 }   
+
 
