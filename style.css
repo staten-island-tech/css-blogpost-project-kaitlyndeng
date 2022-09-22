@@ -1,64 +1,37 @@
 body {
+    background-color: rgb(245, 195, 195);
+    color: rgb(62,28,20);
+    font-size: 30px;
     font-family: 'Kanit', sans-serif;
-    background-color: rgb(241, 179, 179);
-    color:rgb(62, 38, 20);
-    font-size: 25px;
 }
-h1{
-    color:rgb(62, 38, 20);
+.main-header {
+   background-color: rgb(244, 231, 205);
+   text-align: center;
+   margin: 50px 90px; 
+   padding: 15px;
+   border: 10px solid rgb(243, 151, 194);
+   border-radius: 30px;
 }
-.head{
-    text-align: center;
+.kaitlyns-children, .kaitlyns-favorites, .funfacts-kaitlyn {
     background-color: rgb(244, 231, 205);
-    margin: 5%;
-    padding: 2%;
+    padding: 15px;
     border: 10px solid rgb(243, 151, 194);
     border-radius: 30px;
+    margin: 50px 90px;
+    position: relative;
 }
-.kaitlyns-children-head{
-    font-size: 40px;
-}
-.children{
+.children-header, .favorites-header, .funfacts-header {
     text-align: center;
-    margin: 5%;
-    background-color: rgb(244, 231, 205);
-    padding: 2%;
-    border-radius: 30px;
-    border: 10px solid rgb(243, 151, 194);
+    font-size: 50px;
 }
-.kaitlyns-hobbies-head{
-    font-size: 40px;
+span {
+    color:rgb(243, 151, 194)
 }
-.hobby{
+.child-image, .favorites-image, .funfacts-image {
     text-align: center;
-    margin: 5%;
-    background-color: rgb(244, 231, 205);
-    padding: 2%;
-    border-radius: 30px;
-    border: 10px solid rgb(243, 151, 194);
 }
-img {
-    max-width: 80%;
-    height: auto;
-    padding: 2%
+.icon {
+    position: absolute;
+    right: 10px;
+    top: 0px
 }
-.kaitlyns-music-taste-head{
-    font-size: 40px;
-    margin: auto
-}
-.music{
-    text-align: center;
-    background-color: rgb(244, 231, 205);
-    margin: 5% auto;
-    padding: 5%;
-    border-radius: 30px;
-    border: 10px solid rgb(243, 151, 194);
-}
-img {
-    max-width: 50%;
-    height: auto;
-    padding: 2%;
-    
-}   
-
-
